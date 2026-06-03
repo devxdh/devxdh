@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DPDP Erasure Engine.<br>🌱 I’m currently learning advanced POSTGRESQL and backend backend concepts.
+🔭 I’m currently working on DPDP Erasure Engine.<br>🌱 I’m currently learning advanced Postgresql and backend concepts.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DPDP Erasure Engine.<br>🌱 I’m currently learning advanced Postgresql, Go-lang, and backend concepts.
+🔭 I’m currently working on DPDP Erasure Engine.<br>🤝 Contributor at [@asyncapi](https://github.com/asyncapi)<br>🌱 I’m currently learning advanced Postgresql, Go-lang, and backend concepts.
 
 
 ## 🌐 Socials:

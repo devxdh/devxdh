@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on edio "Extended Git capabilites for AI"<br>🤝 I’m an Org Certified Contributor at AsyncAPI under Linux Foundation<br>🌱 I'm currently learning advanced PostgreSQL, System Design and Backend & Systems engineering concepts.
+🔭 I’m currently working on edio "Extended Git capabilites for AI"<br>🤝 I’m an Org Certified Contributor at AsyncAPI under Linux Foundation<br>🌱 I'm currently learning advanced PostgreSQL, System Design and Backend & Systems engineering.
 
 
 ## 🌐 Socials:

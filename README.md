@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on edio "Extended Git capabilites for AI"<br>🤝 I’m an Open Source Contributor at AsyncAPI under Linux Foundation. Focusing primarily on `generator` and `cli`.<br>🌱 I'm currently learning advanced PostgreSQL, System Design and Backend & Systems engineering.
+🔭 I’m currently working on edio "Extended Git capabilites for AI"<br>🤝 I’m an Open Source Contributor at AsyncAPI under Linux Foundation. Focusing primarily on `generator` and `cli`.<br>🌱 I'm currently learning advanced PostgreSQL, System Design and Backend & Systems engineering. <br>🌱 I love writing about things I learn. For me writing is a process of learning itself. I try to express the essence of my understanding in my articles.
 
 
 ## 🌐 Socials:
